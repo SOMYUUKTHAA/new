@@ -8,5 +8,5 @@ int main()
     cout<<"enter number:";
     cin>>n;
     res=round(n);
-    cout<<"Reault:"<<res;
+    cout<<"Result:"<<res;
 }
